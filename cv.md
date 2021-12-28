@@ -1,11 +1,9 @@
-init: cv_Illia Shpyrko
-
-Illia Shpyrko
+_Illia Shpyrko_
 
 ============
 
 
-Contact Information
+**Contact Information
 
 -------------------         --------------
 
@@ -13,7 +11,7 @@ Contact Information
 ilya.shpyrko@gmail.com      Poland, Krakow
 
 
-Working Experince
+**Working Experince
 
 ---------------------------------------------------------------------------------------------------
 
@@ -24,7 +22,7 @@ Working Experince
 
 
 
-Education
+**Education
 
 -------------------------------------------------------
 
@@ -32,7 +30,7 @@ Education
 2015 - 2019: English - Ukrainian Technical Interpreting 
 
 
-Webdevelopment Skills
+**Webdevelopment Skills
 
 -------------------------------------------------------
 
@@ -42,8 +40,9 @@ Basic knowledge of HTML/CSS (FLex as well).
 No practical experience in the field of Web Development;
 
 
-Languages 
+**Languages 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Proficient English - as a former volunteer from European Solidarity Corps, I was a part of Auschwitz Jewish Center where my main responsibilities were to guide international groups as well as helping in a cafe (a part of the Museum).
