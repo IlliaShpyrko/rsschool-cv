@@ -1,9 +1,9 @@
-***Illia Shpyrko***
+# Illia Shpyrko
 
-==== 
+----
 
 
-## Contact Information
+### Contact Information
 
 ----
 
@@ -11,7 +11,7 @@
 ilya.shpyrko@gmail.com      Poland, Krakow
 
 
-## Working Experince
+### Working Experince
 
 ----
 
@@ -22,7 +22,7 @@ ilya.shpyrko@gmail.com      Poland, Krakow
 
 
 
-## Education
+### Education
 
 ----
 
@@ -30,7 +30,7 @@ ilya.shpyrko@gmail.com      Poland, Krakow
 2015 - 2019: English - Ukrainian Technical Interpreting 
 
 
-## Webdevelopment Skills
+### Webdevelopment Skills
 
 ----
 
@@ -40,7 +40,7 @@ Basic knowledge of HTML/CSS (FLex as well).
 No practical experience in the field of Web Development;
 
 
-## Languages
+### Languages
 
 ----
 
