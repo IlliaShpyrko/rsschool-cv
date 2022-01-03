@@ -16,7 +16,7 @@ Working Experince
 ---------------------------------------------------------------------------------------------------
 
 
-2020 - Present: Contract Management Specialist with more than two years of experience in the field.
+2020 - Present Time: Contract Management Specialist with more than two years of experience in the field.
 
 2019-2020: a volunteer from European Solidarity Corps;
 
