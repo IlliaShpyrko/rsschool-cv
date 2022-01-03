@@ -16,9 +16,9 @@ ilya.shpyrko@gmail.com      Poland, Krakow
 ----
 
 
-1. 2020 - Present Time: Contract Management Specialist with more than two years of experience in the field.
+1. 2020 - Present Time: **Contract Management Specialist** with more than two years of experience in the field.
 
-2. 2019-2020: a volunteer from European Solidarity Corps;
+2. 2019-2020: **a volunteer** from European Solidarity Corps;
 
 
 
