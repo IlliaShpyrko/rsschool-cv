@@ -46,3 +46,4 @@ No practical experience in the field of Web Development;
 
 
 Proficient English - as a former volunteer from European Solidarity Corps, I was a part of Auschwitz Jewish Center where my main responsibilities were to guide international groups as well as helping in a cafe (a part of the Museum).
+
